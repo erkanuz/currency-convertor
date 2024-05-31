@@ -1,0 +1,93 @@
+[
+    {
+        "date": "2024-12-12",
+        "amount": 12.12,
+        "base_currency": "BGN",
+        "target_currency": "TRY",
+        "converted_amount": 61.57
+    },
+    {
+        "date": "2024-02-20",
+        "amount": 234.24,
+        "base_currency": "EUR",
+        "target_currency": "JPY",
+        "converted_amount": 29746.14
+    },
+    {
+        "date": "2024-02-20",
+        "amount": 89.44,
+        "base_currency": "BGN",
+        "target_currency": "USD",
+        "converted_amount": 51.88
+    },
+    {
+        "date": "2024-02-20",
+        "amount": 34.45,
+        "base_currency": "USD",
+        "target_currency": "TRY",
+        "converted_amount": 275.94
+    },
+    {
+        "date": "2024-07-17",
+        "amount": 601.59,
+        "base_currency": "BGN",
+        "target_currency": "EUR",
+        "converted_amount": 306.81
+    },
+    {
+        "date": "2024-07-17",
+        "amount": 231.23,
+        "base_currency": "EUR",
+        "target_currency": "BGN",
+        "converted_amount": 453.21
+    },
+    {
+        "date": "2025-01-01",
+        "amount": 590.45,
+        "base_currency": "USD",
+        "target_currency": "JPY",
+        "converted_amount": 67500.24
+    },
+    {
+        "date": "2025-01-02",
+        "amount": 100,
+        "base_currency": "BGN",
+        "target_currency": "EUR",
+        "converted_amount": 51
+    },
+    {
+        "date": "2026-01-06",
+        "amount": 100,
+        "base_currency": "BGN",
+        "target_currency": "TRY",
+        "converted_amount": 508
+    },
+    {
+        "date": "2026-01-07",
+        "amount": 311.66,
+        "base_currency": "USD",
+        "target_currency": "EUR",
+        "converted_amount": 274.26
+    },
+    {
+        "date": "2026-01-09",
+        "amount": 11.11,
+        "base_currency": "BGN",
+        "target_currency": "EUR",
+        "converted_amount": 5.67
+    },
+    {
+        "date": "2026-01-10",
+        "amount": 99.99,
+        "base_currency": "USD",
+        "target_currency": "EUR",
+        "converted_amount": 87.99
+    },
+    {
+        "date": "2026-01-10",
+        "amount": 401.11,
+        "base_currency": "BGN",
+        "target_currency": "USD",
+        "converted_amount": 232.64
+    }
+]
